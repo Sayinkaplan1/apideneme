@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Drawing;
 using System.IO;
 using System.Threading.Tasks;
@@ -22,8 +22,8 @@ namespace apideneme
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            // DİKKAT: Yeni oluşturduğun GÜVENLİ API anahtarını buraya yaz!
-            string apiKey = "AIzaSyBdc0kiWN0iLf6hTKr1QTlznR-ZHru34fo";
+            // DİKKAT: Kendi API anahtarınızı buraya yazın!
+            string apiKey = "BURAYA_KENDI_API_ANAHTARINIZI_YAZIN";
 
             // YENİ ROL: Asistanımız huysuz hocadan kurtuldu!
             string rol = "Sen her şeyi bilen, çok yardımsever, kibar ve zeki bir yapay zeka asistanısın. Kullanıcıların tüm sorularına detaylı ve açıklayıcı cevaplar verirsin. Görselleri ve dosyaları analiz edebilirsin. Sadece Türkçe konuş.";
